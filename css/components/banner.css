@@ -1,0 +1,39 @@
+.banner {
+  width: 80%;
+  height: 300px;
+  margin: 0 auto;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(60, 60, 60, 0.52),
+      rgba(60, 60, 60, 0.73)
+    ),
+    url("../../images/donut.jpg");
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: repeat;
+  color: white;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.banner h2 {
+  font-size: 20px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+  text-align: center;
+  align-items: center;
+}
+
+@media (max-width: 900px) {
+  /* For a screen < 540px, this CSS will be read */
+  .banner {
+    width: 100%;
+    margin: 0;
+  }
+}

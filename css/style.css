@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&family=PT+Sans&family=Roboto+Condensed&display=swap");
+@import url("components/profile.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/recipe.css");
+@import url("components/card.css");
+
+body {
+  font-family: "PT Sans", sans-serif;
+  font-size: 18px;
+  margin: 0px;
+  text-align: center;
+}
+
+h1,h2,h3 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.6;
+}
+
+div.social {
+  margin: 40px auto;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 4px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+div.row {
+  margin: 40px auto;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+div.container {
+  margin: 40px auto;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+}
+
+
+

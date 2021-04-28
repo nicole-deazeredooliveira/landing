@@ -1,0 +1,69 @@
+
+.column {
+  display: inline-block;
+  text-align: center;
+  float: center;
+  width: 26.66%;
+  height: 100px;
+  padding: 7px;
+  margin: auto auto;
+}
+
+#dessert {
+  width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 7px;
+}
+
+#pasta {
+  width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 7px;
+}
+
+#salad {
+  width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 7px;
+}
+
+#risotto {
+   width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 7px;
+}
+
+#dish {
+   width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 7px;
+}
+
+#tart {
+   width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 7px;
+}
+
+#curry {
+   width: 26.66%;
+  border-radius: 10%;  
+  margin-bottom: 20px;
+}
+
+#burger {
+     width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 20px;
+}
+
+#pancake {
+     width: 26.66%;
+  border-radius: 10%;
+  margin-bottom: 20px;
+}
+
+
+
+
+

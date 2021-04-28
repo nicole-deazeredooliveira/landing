@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  /* For a screen < 800px, this CSS will be read */
+ 
+ .container {
+    width: 100%;
+  }
+
+
